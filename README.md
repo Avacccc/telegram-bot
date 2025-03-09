@@ -3,11 +3,7 @@
 This bot sends or forwards messages to multiple groups using Telegram accounts.
 
 ## Features:
-✅ Send messages with photos  
-✅ Auto-forward messages  
-✅ Handles slow mode, bans, and restrictions  
-✅ Uses multiple Telegram accounts  
-
-## Setup:
-
-1. Install dependencies:
+- Send messages with photos  
+- Auto-forward messages  
+- Handles slow mode, bans, and restrictions  
+- Uses multiple Telegram accounts  
